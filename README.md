@@ -1,9 +1,7 @@
 <h1>Hey! Welcome to my page</h1>
 <p>
   
-  
-  
-  
+ 
   <h3>Tools and languages:</h3>
   <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -20,5 +18,4 @@
     <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white" />
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
   </p>
-
 </p>
