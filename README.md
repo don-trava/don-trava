@@ -1,6 +1,6 @@
 <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hey there! Welcome to my page</h2>
 <p>  
-  Hi, I'm Andrea Travascio, Fullstack developer and freelance software engineer from Italy 🇮🇹
+  Hi, I'm Andrea Travascio, a passionate self-taught fullstack developer from Italy 🇮🇹
   
   - 💼 any freelance work? Do reach, [email](mailto:andrea.travascio@ingdev.net) :)
   - 💬 ask me about anything, I am happy to help;
