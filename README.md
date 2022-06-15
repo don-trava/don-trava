@@ -1,4 +1,4 @@
-<h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hey there! Welcome to my page</h2>
+<h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">Hey there! Welcome to my page</h2>
 <p>  
   Hi, I'm Andrea Travascio, a passionate self-taught fullstack developer from Italy 🇮🇹
   
